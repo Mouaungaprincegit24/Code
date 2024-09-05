@@ -76,7 +76,7 @@ header {
 }
 
 header .logo img {
-  height: 200px;
+  height: 150px;
 }
 
 header .navbar a {
@@ -295,31 +295,31 @@ header .follow a:hover {
 }
 
 .about .row-2 .skills .progress:nth-child(1) .bar span {
-  width: 75%;
+  width: 45%;
 }
 
 .about .row-2 .skills .progress:nth-child(2) .bar span {
-  width: 85%;
+  width: 60%;
 }
 
 .about .row-2 .skills .progress:nth-child(3) .bar span {
-  width: 85%;
+  width: 40%;
 }
 
 .about .row-2 .skills .progress:nth-child(4) .bar span {
-  width: 95%;
+  width: 50%;
 }
 .about .row-2 .skills .progress:nth-child(5) .bar span {
-  width: 65%;
+  width: 55%;
 }
 .about .row-2 .skills .progress:nth-child(6) .bar span {
-  width: 65%;
+  width: 55%;
 }
 .about .row-2 .skills .progress:nth-child(7) .bar span {
-  width: 70%;
+  width: 60%;
 }
 .about .row-2 .skills .progress:nth-child(8) .bar span {
-  width: 95%;
+  width: 45%;
 }
 
 .about .row-2 .box-container {
